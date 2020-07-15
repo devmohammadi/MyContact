@@ -1,0 +1,11 @@
+D:\C sharp\tamrin\MyContact\MyContact\bin\Debug\MyContact.exe.config
+D:\C sharp\tamrin\MyContact\MyContact\bin\Debug\MyContact.exe
+D:\C sharp\tamrin\MyContact\MyContact\bin\Debug\MyContact.pdb
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.csprojAssemblyReference.cache
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.Form1.resources
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.Properties.Resources.resources
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.csproj.GenerateResource.cache
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.csproj.CoreCompileInputs.cache
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.exe
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.pdb
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.AddEdit_form.resources
