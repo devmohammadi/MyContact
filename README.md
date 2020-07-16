@@ -5,7 +5,7 @@
  
 **first step**
 
-Create a database called Contact_DB in Skival Server.
+Create a database called Contact_DB in SQL Server.
 
 **Step two**
 
